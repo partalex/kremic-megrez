@@ -1,8 +1,5 @@
 # Shortcuts
 
-This extension provides a set of keyboard shortcuts to enhance your productivity while using the application. Below is a
-list of available shortcuts:
-
 ## Brower
 
 - `Ctrl + t`: Open a new tab
