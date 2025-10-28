@@ -1,6 +1,6 @@
 # Shortcuts
 
-## Brower
+## Browser
 
 - `Ctrl + t`: Open a new tab
 - `Ctrl + n`: Open a new window
